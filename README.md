@@ -42,7 +42,7 @@
     - 大きな画像や動画など：Googleドライブ
     - 意見交換が主体。3ヶ月で消えるので消えてもよい質疑応答や進捗の共有、ブレストなど。クラス以外には非公開：Slack
     - 企画書や仕様書、確認事項など、手軽に共有したり編集できて残しておきたい文章：Googleドキュメント、ワークシート、Notion, Trelloなど
-- [講義メモ](https://docs.google.com/document/d/1u5hTFDD96oNmaKXQHED5knrz0io9p51hMSqNAuIhyR8/)
+- [講義メモ](https://docs.google.com/document/d/1olAvmpehNVCLBdf329Ubas7FgygtEqyk5j9nyE-rTEI/)
     - Visual C# / Unity
   - 独習
     - [Unity Learning Materials](https://learning.unity3d.jp/)
