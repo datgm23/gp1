@@ -36,12 +36,12 @@
 - ガイダンス
   - [プログラミングを学ぶ前に](https://docs.google.com/presentation/d/1mIIrnua1nf2yCiXA6KMkTUOylzPIxiUCeqQEdtHdPhc/)
 - [環境の準備](https://docs.google.com/document/d/16MW6maMYvt8m-60RM5wU_LzJ5r-3Hm0WTnxoBGDzxIA/)
-  - Googleアカウント / Slack / Google Meet / GitHub / 作業用フォルダー
+  - Googleアカウント / Slack / GitHub / 作業用フォルダー
   - ツールについて
     - プログラムやアプリの使い方の管理、文章作成者が決まっているようなもの：GitHub
     - 大きな画像や動画など：Googleドライブ
-    - 意見交換が主体で、将来的に消えてもよい質疑応答や進捗の共有、ブレストなど。クラス以外には非公開：Slack
-    - 企画書や仕様書、確認事項など、手軽に共有したり編集できて残しておきたい文章：Googleドキュメント、ワークシート、Trelloなど
+    - 意見交換が主体。3ヶ月で消えるので消えてもよい質疑応答や進捗の共有、ブレストなど。クラス以外には非公開：Slack
+    - 企画書や仕様書、確認事項など、手軽に共有したり編集できて残しておきたい文章：Googleドキュメント、ワークシート、Notion, Trelloなど
 - [講義メモ](https://docs.google.com/document/d/1u5hTFDD96oNmaKXQHED5knrz0io9p51hMSqNAuIhyR8/)
     - Visual C# / Unity
   - 独習
