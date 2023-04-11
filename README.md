@@ -48,5 +48,5 @@
     - [Unity Learning Materials](https://learning.unity3d.jp/)
     - [Paizaラーニング C#](https://paiza.jp/works/cs/primer)
       - アカウントをGitHubで登録
-    - この1年でUnity関連の良質な記事が増えたのでよいページを探してみてください！
+    - プログラミング関連の良質な記事が日々増えているので、よいサイトを探してみてください！
 
