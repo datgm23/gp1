@@ -3,7 +3,7 @@
 - [シラバス](https://drive.google.com/file/d/1J4VaBPuo8JBVXzrt6RhHy2z69VR1mAGj/view?usp=sharing)
 - [Google Meet](https://meet.google.com/bwb-njcm-udh)
 - [Slack](https://datgm23.slack.com)
-- [日程](thu.md)
+- [木曜 講義日程](thu.md)
 - その他
   - [VisualStudioのプロジェクトをGitHubにPublishする](https://github.com/datgm21/gp1/wiki/VisualStudio%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92GitHub%E3%81%ABPublish%E3%81%99%E3%82%8B)
   - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
@@ -33,14 +33,20 @@
 
 
 ## 1回目
-- この講義のURLは https://github.com/datgm23/gp1
-  - [GmailアカウントとGitHubアカウントを作成していない場合はこちら](https://docs.google.com/document/d/16MW6maMYvt8m-60RM5wU_LzJ5r-3Hm0WTnxoBGDzxIA/)
 - ガイダンス
   - [プログラミングを学ぶ前に](https://docs.google.com/presentation/d/1mIIrnua1nf2yCiXA6KMkTUOylzPIxiUCeqQEdtHdPhc/)
-  - [講義メモ](https://docs.google.com/document/d/1u5hTFDD96oNmaKXQHED5knrz0io9p51hMSqNAuIhyR8/)
+- [環境の準備](https://docs.google.com/document/d/16MW6maMYvt8m-60RM5wU_LzJ5r-3Hm0WTnxoBGDzxIA/)
+  - Googleアカウント / Slack / Google Meet / GitHub / 作業用フォルダー
+  - ツールについて
+    - プログラムやアプリの使い方の管理、文章作成者が決まっているようなもの：GitHub
+    - 大きな画像や動画など：Googleドライブ
+    - 意見交換が主体で、将来的に消えてもよい質疑応答や進捗の共有、ブレストなど。クラス以外には非公開：Slack
+    - 企画書や仕様書、確認事項など、手軽に共有したり編集できて残しておきたい文章：Googleドキュメント、ワークシート、Trelloなど
+- [講義メモ](https://docs.google.com/document/d/1u5hTFDD96oNmaKXQHED5knrz0io9p51hMSqNAuIhyR8/)
     - Visual C# / Unity
   - 独習
     - [Unity Learning Materials](https://learning.unity3d.jp/)
     - [Paizaラーニング C#](https://paiza.jp/works/cs/primer)
       - アカウントをGitHubで登録
     - この1年でUnity関連の良質な記事が増えたのでよいページを探してみてください！
+
