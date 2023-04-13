@@ -41,8 +41,6 @@
 
 ### 予定
 
-- [Slackの招待リンク](https://join.slack.com/t/datgm23/shared_invite/zt-1t3dx4oc1-rAIXd0LsBsTdEJ0nVF5t9w)
-
 - ガイダンス
   - [プログラミングを学ぶ前に](https://docs.google.com/presentation/d/1mIIrnua1nf2yCiXA6KMkTUOylzPIxiUCeqQEdtHdPhc/)
 - [環境の準備](https://docs.google.com/document/d/16MW6maMYvt8m-60RM5wU_LzJ5r-3Hm0WTnxoBGDzxIA/)
