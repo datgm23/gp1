@@ -33,6 +33,12 @@
 
 
 ## 1回目
+
+### 話題
+- [Webブラウザやスマホでノーコーディングでゲームが作れるGDevelop](https://gdevelop.io/ja-jp)
+
+### 予定
+
 - ガイダンス
   - [プログラミングを学ぶ前に](https://docs.google.com/presentation/d/1mIIrnua1nf2yCiXA6KMkTUOylzPIxiUCeqQEdtHdPhc/)
 - [環境の準備](https://docs.google.com/document/d/16MW6maMYvt8m-60RM5wU_LzJ5r-3Hm0WTnxoBGDzxIA/)
