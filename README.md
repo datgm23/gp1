@@ -4,6 +4,7 @@
 - [Google Meet](https://meet.google.com/bwb-njcm-udh)
 - [Slack](https://datgm23.slack.com)
 - [木曜 講義日程](thu.md)
+- [書く教科書の作例](https://github.com/datgm23/csharp-manual)
 - その他
   - [VisualStudioのプロジェクトをGitHubにPublishする](https://github.com/datgm21/gp1/wiki/VisualStudio%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92GitHub%E3%81%ABPublish%E3%81%99%E3%82%8B)
   - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
@@ -32,6 +33,21 @@
   - [内藤時浩. ゲーム制作の工数最適化](https://codeknowledge.livedoor.blog/archives/13048099.html)
 - [内藤時浩. C言語001 基礎講座連載開始](https://codeknowledge.livedoor.blog/archives/17082816.html)  
 
+## 2回目
+
+### 復習問題
+
+### 予定
+- 書く教科書01の復習と続き
+  - Visual Studioの基本操作 / 問題の解消
+  - [書く教科書の作例](https://github.com/datgm23/csharp-manual)
+- Unityの動作確認
+- 独習
+  - [Unity Learning Materials](https://learning.unity3d.jp/)
+  - [Paizaラーニング C#](https://paiza.jp/works/cs/primer)
+    - アカウントをGitHubで登録
+  - プログラミング関連の良質な記事が日々増えているので、よいサイトを探してみてください！
+
 
 ## 1回目
 
@@ -39,7 +55,7 @@
 - [Webブラウザやスマホでノーコーディングでゲームが作れるGDevelop](https://gdevelop.io/ja-jp)
 - [Unityの動作環境](https://am1.jp/tutorials/unity/spec/)
 
-### 予定
+### 内容
 
 - ガイダンス
   - [プログラミングを学ぶ前に](https://docs.google.com/presentation/d/1mIIrnua1nf2yCiXA6KMkTUOylzPIxiUCeqQEdtHdPhc/)
@@ -52,9 +68,4 @@
     - 企画書や仕様書、確認事項など、手軽に共有したり編集できて残しておきたい文章：Googleドキュメント、ワークシート、Notion, Trelloなど
 - [講義メモ](https://docs.google.com/document/d/1olAvmpehNVCLBdf329Ubas7FgygtEqyk5j9nyE-rTEI/)
     - Visual C# / Unity
-  - 独習
-    - [Unity Learning Materials](https://learning.unity3d.jp/)
-    - [Paizaラーニング C#](https://paiza.jp/works/cs/primer)
-      - アカウントをGitHubで登録
-    - プログラミング関連の良質な記事が日々増えているので、よいサイトを探してみてください！
 
