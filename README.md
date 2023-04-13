@@ -12,6 +12,7 @@
 
 ## 参考資料
 - [Unity Learning Materials](https://learning.unity3d.jp/)
+- [Unityの動作環境](https://am1.jp/tutorials/unity/spec/)
 - [Unityブログ. ゲームプログラミングパターンでコードをレベルアップさせよう](https://blog.unity.com/ja/games/level-up-your-code-with-game-programming-patterns)
 - [Unityのインストール](https://am1.jp/tutorials/unity/install/)
   - 現在の学校のバージョンはUnity2021.3.4f1
@@ -36,6 +37,7 @@
 
 ### 話題
 - [Webブラウザやスマホでノーコーディングでゲームが作れるGDevelop](https://gdevelop.io/ja-jp)
+- [Unityの動作環境](https://am1.jp/tutorials/unity/spec/)
 
 ### 予定
 
