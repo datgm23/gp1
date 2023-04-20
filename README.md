@@ -1,3 +1,5 @@
+[Slackの招待リンク](https://join.slack.com/t/datgm23/shared_invite/zt-1t3dx4oc1-rAIXd0LsBsTdEJ0nVF5t9w)
+
 # ゲームプログラミング1年(2023年度入学生)
 
 - [シラバス](https://drive.google.com/file/d/1J4VaBPuo8JBVXzrt6RhHy2z69VR1mAGj/view?usp=sharing)
