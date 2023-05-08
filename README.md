@@ -33,11 +33,24 @@
   - [内藤時浩. ゲーム制作の工数最適化](https://codeknowledge.livedoor.blog/archives/13048099.html)
 - [内藤時浩. C言語001 基礎講座連載開始](https://codeknowledge.livedoor.blog/archives/17082816.html)  
 
-## 2回目
+## 3回目(5/11)
 
 ### 話題
+- [RPG Maker Unite](https://assetstore.unity.com/packages/2d/gui/rpg-maker-unite-please-read-the-description-about-early-bird-bon-253689#publisher)
 - [Unreal Editor for Fortnite (UEFN)](https://dev.epicgames.com/documentation/ja-jp/uefn/unreal-editor-for-fortnite-documentation)
 
+### 復習問題
+
+### 予定
+- 前回までの振り返り
+- プロパティ / 計算
+  - GitHubを開く > Sign in > csharp-manual を開く
+  - Visual C#で`v0511`という名前で新しいプロジェクトを作成
+  - [VisualStudioのプロジェクトをGitHubにPublishする](https://github.com/datgm21/gp1/wiki/VisualStudio%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92GitHub%E3%81%ABPublish%E3%81%99%E3%82%8B)
+- [プロジェクトの更新をGitHubに反映させる](https://github.com/datgm21/gp1/wiki/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E6%9B%B4%E6%96%B0%E3%82%92GitHub%E3%81%AB%E5%8F%8D%E6%98%A0%E3%81%95%E3%81%9B%E3%82%8B)
+
+
+## 2回目
 
 ### 復習問題
 前回作成した「書く教科書」を参照して、以下の手順に従ってVisusl C#プロジェクトを作成して、Visual StudioのスクリーンショットをSlackに貼り付けよ。
@@ -52,9 +65,7 @@
 1. 学校で作成したGoogleアカウントでSlackにサインイン
 1. 「#times_自分の名前」のチャンネルにCtrlキー + Vキーでスクリーンショットを貼り付けて、メッセージを送信する
 
-
-
-### 予定
+### 内容
 - 書く教科書01の復習と続き
   - Visual Studioの基本操作 / 問題の解消
   - [書く教科書の作例](https://github.com/datgm23/csharp-manual)
