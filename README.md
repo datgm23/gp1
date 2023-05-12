@@ -33,6 +33,17 @@
   - [内藤時浩. ゲーム制作の工数最適化](https://codeknowledge.livedoor.blog/archives/13048099.html)
 - [内藤時浩. C言語001 基礎講座連載開始](https://codeknowledge.livedoor.blog/archives/17082816.html)  
 
+## 4回目(5/18)
+
+### 話題
+- [alwei. UE5.2の気になる情報ツイート](https://twitter.com/aizen76/status/1656821935966416897)
+- [ゲームメーカーズ. Google、現実世界の地理座標とリンクしたARコンテンツを作成できるツール『Geospatial Creator』を発表。UnityとAdobe Aeroで利用可能](https://gamemakers.jp/article/2023_05_11_38671/)
+  - [developers.google.com Unity用Geospatial Creatorを使ってみる](https://developers.google.com/codelabs/arcore-unity-geospatial-creator?hl=ja#0)
+- [developers.google.com フォトリアリスティック3Dタイルの概要](https://developers.google.com/maps/documentation/tile/3d-tiles-overview?hl=ja)
+
+
+### 予定
+
 ## 3回目(5/11)
 
 ### 話題
