@@ -36,13 +36,18 @@
 ## 4回目(5/18)
 
 ### 話題
-- [alwei. UE5.2の気になる情報ツイート](https://twitter.com/aizen76/status/1656821935966416897)
+- [Unreal Engine5.2 リリース](https://www.unrealengine.com/ja/blog/unreal-engine-5-2-is-now-available)
+  - [alwei. UE5.2の気になる情報ツイート](https://twitter.com/aizen76/status/1656821935966416897)
+- [Epic Games Storeでゲームをリリース](https://store.epicgames.com/ja/news/epic-games-store-launches-self-publishing-tools-for-game-developers-and-publishers)
 - [ゲームメーカーズ. Google、現実世界の地理座標とリンクしたARコンテンツを作成できるツール『Geospatial Creator』を発表。UnityとAdobe Aeroで利用可能](https://gamemakers.jp/article/2023_05_11_38671/)
   - [developers.google.com Unity用Geospatial Creatorを使ってみる](https://developers.google.com/codelabs/arcore-unity-geospatial-creator?hl=ja#0)
 - [developers.google.com フォトリアリスティック3Dタイルの概要](https://developers.google.com/maps/documentation/tile/3d-tiles-overview?hl=ja)
 
+### 復習問題
 
 ### 予定
+- 計算 / コントロールの表現を増やす
+
 
 ## 3回目(5/11)
 
@@ -68,8 +73,7 @@
 1. Windowsキー + Shiftキー + Sキーを押してスクリーンショットメニューを表示して、**全画面表示の領域切り取り**をクリック
 1. 貼り付けたい場所をクリックで選択して、Ctrlキー + Vキー
 
-
-### 予定
+### 内容
 - 前回までの振り返り
 - プロパティ / 計算
   - GitHubを開く > Sign in > csharp-manual を開く
