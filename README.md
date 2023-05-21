@@ -1,6 +1,6 @@
 # ゲームプログラミング1年(2023年度入学生)
 
-- [シラバス](https://drive.google.com/file/d/1J4VaBPuo8JBVXzrt6RhHy2z69VR1mAGj/view?usp=sharing)
+- [シラバス](https://drive.google.com/file/d/1J4VaBPuo8JBVXzrt6RhHy2z69VR1mAGj/)
 - [Google Meet](https://meet.google.com/bwb-njcm-udh)
 - [Slack](https://datgm23.slack.com)
 - [木曜 講義日程](thu.md)
@@ -32,6 +32,14 @@
   - [内藤時浩. ゲーム制作のプロジェクト管理](https://codeknowledge.livedoor.blog/archives/13027501.html)
   - [内藤時浩. ゲーム制作の工数最適化](https://codeknowledge.livedoor.blog/archives/13048099.html)
 - [内藤時浩. C言語001 基礎講座連載開始](https://codeknowledge.livedoor.blog/archives/17082816.html)  
+
+## 5回目(5/25)
+
+### 復習問題
+
+### 予定
+- コントロールの表現を増やす
+
 
 ## 4回目(5/18)
 
@@ -65,8 +73,8 @@
 - ラベルを作って、クリックすると表示が変わるようにする
 - その他、思いついたことを実装
 
-### 予定
-- 計算 / コントロールの表現を増やす
+### 内容
+- 計算
 
 
 ## 3回目(5/11)
