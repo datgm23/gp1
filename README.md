@@ -33,6 +33,17 @@
   - [内藤時浩. ゲーム制作の工数最適化](https://codeknowledge.livedoor.blog/archives/13048099.html)
 - [内藤時浩. C言語001 基礎講座連載開始](https://codeknowledge.livedoor.blog/archives/17082816.html)  
 
+## 6回目(6/1)
+
+### 話題
+- [Unity1週間ゲームジャム](https://twitter.com/naichilab/status/1659879548283162624) 6/19(月) 0:00から
+
+### 復習問題
+
+### 予定
+- 変数(2)
+- 分岐(1)
+
 ## 5回目(5/25)
 
 ### 話題
@@ -66,10 +77,9 @@
 - その他、思いついたことを試す
 
 
-### 予定
+### 内容
 - **代入演算子**を、**複合代入演算子**に修正
 - コントロールの表現を増やす
-- [命名規則](https://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
 - 変数(1)
 
 
