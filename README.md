@@ -33,6 +33,14 @@
   - [内藤時浩. ゲーム制作の工数最適化](https://codeknowledge.livedoor.blog/archives/13048099.html)
 - [内藤時浩. C言語001 基礎講座連載開始](https://codeknowledge.livedoor.blog/archives/17082816.html)  
 
+## 8回目(6/15)
+
+### 復習問題
+
+### 予定
+- 前回までの復習
+- 配列 / 繰り返し
+
 ## 7回目(6/8)
 
 ### 復習問題
@@ -63,10 +71,11 @@
 - その他、思いついたことを試す
 
 
-### 予定
+### 内容
 - マウス
 - 分岐(2)
-
+- 乱数
+- [乱数まで実装したプログラム](https://github.com/datgm23/fukuv0608/blob/main/fukuv0608/Form1.cs)
 
 ## 6回目(6/1)
 
