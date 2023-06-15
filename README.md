@@ -35,8 +35,6 @@
 
 ## 8回目(6/15)
 
-- GitHubのURLは[こちら](https://docs.google.com/forms/d/e/1FAIpQLSe5OMfKZjLNLYv0U5BbUoH8vfAeRe069TZuiyLHYNjqp8wIJA/viewform?usp=sf_link)へ報告
-
 ### 話題
 - [東京大学「Pythonプログラミング入門」の授業ページ](https://utokyo-ipp.github.io/course/)
 
