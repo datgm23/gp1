@@ -78,7 +78,7 @@
 ### 予定
 - 前回までの復習
 - 配列 / 繰り返し
-  - [v0615の作例](https://github.com/datgm23/v0615)
+  - [v0615の作例](https://github.com/datgm23/v0615)の[プログラム](https://github.com/datgm23/v0615/blob/main/v0615/Form1.cs)
 
 ## 7回目(6/8)
 
