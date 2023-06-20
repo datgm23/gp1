@@ -33,6 +33,17 @@
   - [内藤時浩. ゲーム制作の工数最適化](https://codeknowledge.livedoor.blog/archives/13048099.html)
 - [内藤時浩. C言語001 基礎講座連載開始](https://codeknowledge.livedoor.blog/archives/17082816.html)  
 
+## 9回目(6/22)
+
+### 復習問題
+
+### 予定
+- 演習14から復習
+- 繰り返しの残り
+- コントロールをプログラムで追加
+- ミニゲーム「よけとるVCS」の開発
+
+
 ## 8回目(6/15)
 
 ### 話題
@@ -73,7 +84,7 @@
 
 考え方の参考: [kazuate.md](kazuate.md)
 
-### 予定
+###内容
 - 前回までの復習
 - 配列 / 繰り返し
   - [v0615の作例](https://github.com/datgm23/v0615)の[プログラム](https://github.com/datgm23/v0615/blob/main/v0615/Form1.cs)
