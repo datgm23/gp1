@@ -33,9 +33,14 @@
   - [内藤時浩. ゲーム制作の工数最適化](https://codeknowledge.livedoor.blog/archives/13048099.html)
 - [内藤時浩. C言語001 基礎講座連載開始](https://codeknowledge.livedoor.blog/archives/17082816.html)  
 
+## 10回目(6/29)
+- Visual C#習作ミニゲーム(YoketoruCS)の開発
+- [はじめての設計](https://docs.google.com/document/d/1HFigMkay7LbT0n59_XQXdO5ThhtVhRl_9liCVSOm6c4/)
+- よけとるUnityのクラス設計
+
 ## 9回目(6/22)
 
-### 予定
+### 内容
 - 前回のv0615がエラーだったりない人は[v0615](https://github.com/datgm23/v0615)を右クリックして、新しいタブで開く
 - 演習14から復習
 - 繰り返しの残り
