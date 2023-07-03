@@ -33,13 +33,21 @@
   - [内藤時浩. ゲーム制作の工数最適化](https://codeknowledge.livedoor.blog/archives/13048099.html)
 - [内藤時浩. C言語001 基礎講座連載開始](https://codeknowledge.livedoor.blog/archives/17082816.html)  
 
-## 10回目(6/29)
+## 11回目(7/6)
+
+### 予定
 - Visual C#習作ミニゲーム(YoketoruCS)の開発
   - [習作ミニゲームYoketoruCS 作業メモ](https://docs.google.com/document/d/1dss5MkeVH6zXKuq-xVKWdqMqPXKxeS6M7A1QitnXU7E/)
 - [はじめての設計](https://docs.google.com/document/d/1HFigMkay7LbT0n59_XQXdO5ThhtVhRl_9liCVSOm6c4/)
 - よけとるUnityの開発
   - [よけとるUnity企画構想書](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
   - [よけとるUnity仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
+
+## 10回目(6/29)
+
+### 内容
+- Visual C#習作ミニゲーム(YoketoruCS)の開発
+  - [習作ミニゲームYoketoruCS 作業メモ](https://docs.google.com/document/d/1dss5MkeVH6zXKuq-xVKWdqMqPXKxeS6M7A1QitnXU7E/)
 
 ## 9回目(6/22)
 
