@@ -38,7 +38,7 @@
 状態遷移とシーン切り替え / 値オブジェクトとオブザーバーパターン
 
 ### 予定
-- よけとるCSの仕上げ
+- よけとるCSの仕上げ [習作ミニゲームYoketoruCS 作業メモ](https://docs.google.com/document/d/1dss5MkeVH6zXKuq-xVKWdqMqPXKxeS6M7A1QitnXU7E/)
   - 修正の確認
   - 4つの不具合対策
   - ハイスコアの更新処理
