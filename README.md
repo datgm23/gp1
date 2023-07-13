@@ -33,6 +33,21 @@
   - [内藤時浩. ゲーム制作の工数最適化](https://codeknowledge.livedoor.blog/archives/13048099.html)
 - [内藤時浩. C言語001 基礎講座連載開始](https://codeknowledge.livedoor.blog/archives/17082816.html)  
 
+## 13回目(7/20)
+
+### 予定
+- paizaの練習問題の最後のN個のデータ読み取りの状況確認と解答
+
+はじめての設計か、Unityの教科書。
+
+- [はじめての設計](https://docs.google.com/document/d/1HFigMkay7LbT0n59_XQXdO5ThhtVhRl_9liCVSOm6c4/)
+- よけとるUnityの開発
+  - [よけとるUnity企画構想書](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
+  - [よけとるUnity仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
+  - [00よけとるUnityプロジェクトの作成](https://docs.google.com/document/d/1rk3klNfDD5tlQ0CpZVt34NibBh50MT6dYGDpHXmbCPw/)に従って、もう一度プロジェクトを作り直す。プロジェクト名は`Yoketoru2023dev`
+  - 指示に従ってプロジェクトを作成して、GitHubにパブリッシュして、教員をメンバーに追加する。この作業状況に応じて、このあとUnityを続けるか、他の環境の自習にするかを分ける
+
+
 ## 12回目(7/13)
 
 状態遷移とシーン切り替え / 値オブジェクトとオブザーバーパターン
@@ -43,14 +58,6 @@
   - 4つの不具合対策
   - ハイスコアの更新処理
 - [paizaスキルチェックの準備](https://docs.google.com/document/d/1R_2RpgenKHdM7XPX9YjDXxZExyY1-srDI_Nnrw9tJeA/)
-
-### 時間があれば
-- [はじめての設計](https://docs.google.com/document/d/1HFigMkay7LbT0n59_XQXdO5ThhtVhRl_9liCVSOm6c4/)
-- よけとるUnityの開発
-  - [よけとるUnity企画構想書](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
-  - [よけとるUnity仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
-  - [00よけとるUnityプロジェクトの作成](https://docs.google.com/document/d/1rk3klNfDD5tlQ0CpZVt34NibBh50MT6dYGDpHXmbCPw/)に従って、もう一度プロジェクトを作り直す。プロジェクト名は`Yoketoru2023dev`
-  - 指示に従ってプロジェクトを作成して、GitHubにパブリッシュして、教員をメンバーに追加する。この作業状況に応じて、このあとUnityを続けるか、他の環境の自習にするかを分ける
 
 ## 11回目(7/6)
 
