@@ -42,6 +42,9 @@
   - 修正の確認
   - 4つの不具合対策
   - ハイスコアの更新処理
+
+時間があればUnityから。なければpaiza
+
 - [はじめての設計](https://docs.google.com/document/d/1HFigMkay7LbT0n59_XQXdO5ThhtVhRl_9liCVSOm6c4/)
 - よけとるUnityの開発
   - [よけとるUnity企画構想書](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
