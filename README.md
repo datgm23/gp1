@@ -42,16 +42,15 @@
   - 修正の確認
   - 4つの不具合対策
   - ハイスコアの更新処理
+- [paizaスキルチェックの準備](https://docs.google.com/document/d/1R_2RpgenKHdM7XPX9YjDXxZExyY1-srDI_Nnrw9tJeA/)
 
-時間があればUnityから。なければpaiza
-
+### 時間があれば
 - [はじめての設計](https://docs.google.com/document/d/1HFigMkay7LbT0n59_XQXdO5ThhtVhRl_9liCVSOm6c4/)
 - よけとるUnityの開発
   - [よけとるUnity企画構想書](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
   - [よけとるUnity仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
   - [00よけとるUnityプロジェクトの作成](https://docs.google.com/document/d/1rk3klNfDD5tlQ0CpZVt34NibBh50MT6dYGDpHXmbCPw/)に従って、もう一度プロジェクトを作り直す。プロジェクト名は`Yoketoru2023dev`
   - 指示に従ってプロジェクトを作成して、GitHubにパブリッシュして、教員をメンバーに追加する。この作業状況に応じて、このあとUnityを続けるか、他の環境の自習にするかを分ける
-- [paizaスキルチェックの準備](https://docs.google.com/document/d/1R_2RpgenKHdM7XPX9YjDXxZExyY1-srDI_Nnrw9tJeA/)
 
 ## 11回目(7/6)
 
