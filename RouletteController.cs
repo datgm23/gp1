@@ -84,6 +84,10 @@ public class RouletteController : MonoBehaviour
                 break;
             case State.Decelerating:
                 this.rotSpeed *= 0.96f;
+                if (this.rotSpeed < StopSpeed)
+                {
+                    nextState = State.Stop;
+                }
                 break;
         }
     }
