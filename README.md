@@ -33,7 +33,7 @@
   - [内藤時浩. ゲーム制作の工数最適化](https://codeknowledge.livedoor.blog/archives/13048099.html)
 - [内藤時浩. C言語001 基礎講座連載開始](https://codeknowledge.livedoor.blog/archives/17082816.html)  
 
-## 14回目(8/29)
+## 14回目(8/31)
 
 ### 予定
 - 夏休み課題仕上げと質疑応答
