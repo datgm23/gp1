@@ -15,8 +15,8 @@
 - [Unity Learning Materials](https://learning.unity3d.jp/)
 - [Unityの動作環境](https://am1.jp/tutorials/unity/spec/)
 - [Unityブログ. ゲームプログラミングパターンでコードをレベルアップさせよう](https://blog.unity.com/ja/games/level-up-your-code-with-game-programming-patterns)
-- [Unityのインストール](https://am1.jp/tutorials/unity/install/)
-  - 現在の学校のバージョンはUnity2021.3.4f1
+- Unityのインストールは[Cluster]([https://am1.jp/tutorials/unity/install/](https://creator.cluster.mu/cck-worldcreatetutroial-home/)を開いて、Googleアカウントでサインインして、「Unityを導入する」の手順を参照
+  - 2023年度の学校のバージョンはUnity2021.3.4f1
 - [Paizaラーニング C#](https://paiza.jp/works/cs/primer)
 - [Unityスタッフのブックマーク](https://note.com/unityjapan/m/m5978b902c2b5)
 - [ハーバード大学 CS50 の日本語版翻訳プロジェクトのページ](https://cs50.jp/)
