@@ -44,6 +44,8 @@
 - 不調のため再インストールを実施予定。データをZドライブや他のPCにコピーしておくこと
 
 ### 予定
+- DATフェスタ打ち合わせ
+  - [チームと座席](https://docs.google.com/spreadsheets/d/1MjS6r0zExiI0kuczW0lzVBVSeWSUhBdtGgjyseeui6E/)
 - paizaチャレンジとランク報告
   - [paizaスキルチェックの準備](https://docs.google.com/document/d/1R_2RpgenKHdM7XPX9YjDXxZExyY1-srDI_Nnrw9tJeA/)
   - 結果の報告
@@ -54,7 +56,6 @@
     - 「標準入力サンプル問題セット」の続きから始めるをクリック
     - Windows + Shift + Sキーで一番下の問題のスクリーンショットをコピーして、Slackの自分のtimes_チャンネルに貼り付ける
 - 夏休み課題の最終提出
-- DATフェスタ打ち合わせ
 
 
 ## 14回目(8/31)
