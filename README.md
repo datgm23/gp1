@@ -46,6 +46,9 @@
 ### 予定
 - DATフェスタ打ち合わせ
   - [チームと座席](https://docs.google.com/spreadsheets/d/1MjS6r0zExiI0kuczW0lzVBVSeWSUhBdtGgjyseeui6E/)
+  - データを移行するときは、`Z:\2023\student\gp1\移動用`フォルダーを一時的に利用するとよい
+  - Unityのプロジェクトをコピーする場合は、Libraryフォルダーは削除するなどして、コピーしないようにする。GitHubの利用を推奨
+    - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
 - paizaチャレンジとランク報告
   - [paizaスキルチェックの準備](https://docs.google.com/document/d/1R_2RpgenKHdM7XPX9YjDXxZExyY1-srDI_Nnrw9tJeA/)
   - 結果の報告
