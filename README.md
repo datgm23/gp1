@@ -35,6 +35,11 @@
 
 ## 15回目(9/7)
 
+### 話題
+- [1週間ゲームジャム](https://unityroom.com/unity1weeks)が9/18から開催
+- [RAPTEX](https://raptex.jp/)
+- [Mind Render](https://mindrender.jp/)
+
 ### A601_06について
 - 不調のため再インストールを実施予定。データをZドライブや他のPCにコピーしておくこと
 
