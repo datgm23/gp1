@@ -43,7 +43,7 @@
 ### A601_06について
 - 不調のため再インストールを実施予定。データをZドライブや他のPCにコピーしておくこと
 
-### 予定
+### 内容
 - DATフェスタ打ち合わせ
   - [チームと座席](https://docs.google.com/spreadsheets/d/1MjS6r0zExiI0kuczW0lzVBVSeWSUhBdtGgjyseeui6E/)
   - データを移行するときは、`Z:\2023\student\gp1\移動用`フォルダーを一時的に利用するとよい
