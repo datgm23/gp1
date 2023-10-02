@@ -41,6 +41,18 @@
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
 
+## 後期1回目(10/5)
+
+### 予定
+- DATフェスタ企画の打ち合わせ
+  - [チームと座席](https://docs.google.com/spreadsheets/d/1MjS6r0zExiI0kuczW0lzVBVSeWSUhBdtGgjyseeui6E/)
+  - データを移行するときは、`Z:\2023\student\gp1\移動用`フォルダーを一時的に利用するとよい
+  - Unityのプロジェクトをコピーする場合は、Libraryフォルダーは削除するなどして、コピーしないようにする。GitHubの利用を推奨
+    - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
+- 企画概要書の作成
+  - [企画構想書テンプレート](https://docs.google.com/document/d/1VtRoODgC0lQ9ch7H-Mcx0GqqLtVlkcAjQ7JxabvHKdM/)
+  - ツール選択、モック画面、具体的な操作方法、ステージ案を重点的に書き出す
+
 ## 15回目(9/7)
 
 ### 話題
