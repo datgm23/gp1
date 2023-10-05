@@ -52,6 +52,7 @@
 - 企画概要書の作成
   - [企画構想書テンプレート](https://docs.google.com/document/d/1VtRoODgC0lQ9ch7H-Mcx0GqqLtVlkcAjQ7JxabvHKdM/)
   - ツール選択、モック画面、具体的な操作方法、ステージ案を重点的に書き出す
+- 進捗共有
 
 ## 15回目(9/7)
 
