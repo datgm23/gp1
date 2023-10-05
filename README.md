@@ -51,6 +51,7 @@
     - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
 - 企画概要書の作成
   - [企画構想書テンプレート](https://docs.google.com/document/d/1VtRoODgC0lQ9ch7H-Mcx0GqqLtVlkcAjQ7JxabvHKdM/)
+    - コピーを作成したら、共有設定をして[こちら](https://docs.google.com/forms/d/e/1FAIpQLSe5OMfKZjLNLYv0U5BbUoH8vfAeRe069TZuiyLHYNjqp8wIJA/viewform?usp=sf_link)へURLを報告
   - ツール選択、モック画面、具体的な操作方法、ステージ案を重点的に書き出す
 - 進捗共有
 
