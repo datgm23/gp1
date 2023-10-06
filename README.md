@@ -41,9 +41,16 @@
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
 
-## 後期1回目(10/5)
+## 後期2回目(10/12)
 
 ### 予定
+- ゲームの流れの聞き取り
+  - 起動からタイトル表示、ゲームプレイ、ゲームオーバー、クリアの流れ
+  - ゲームがはじまってからプレイヤーがどのような操作をするかを想定したレベルデザイン
+
+## 後期1回目(10/5)
+
+### 話題
 - DATフェスタ企画の打ち合わせ
   - [チームと座席](https://docs.google.com/spreadsheets/d/1MjS6r0zExiI0kuczW0lzVBVSeWSUhBdtGgjyseeui6E/)
   - データを移行するときは、`Z:\2023\student\gp1\移動用`フォルダーを一時的に利用するとよい
