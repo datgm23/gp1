@@ -48,9 +48,9 @@
 ## 後期2回目(10/12)
 
 ### 進捗共有
-- [音ゲー](https://docs.google.com/document/d/1_si36QjOkuL3FDZR9hMD0juYDOXz8Zxzx6qocLtUjTw/)
+- [紅葉と侍（仮）](https://docs.google.com/document/d/1_si36QjOkuL3FDZR9hMD0juYDOXz8Zxzx6qocLtUjTw/)
 - [即魔女](https://docs.google.com/document/d/1O9U18MEGjxq8ZFAx1V9dOOo17ebojH6Qq0-hocnguPk/)
-- [WolfEditor](https://docs.google.com/document/d/17osuDKilwYyrzr6V4FXAcM4-ExwhuzjoSV7g7h3XuLM/)
+- [赤色のサーカス(仮)](https://docs.google.com/document/d/17osuDKilwYyrzr6V4FXAcM4-ExwhuzjoSV7g7h3XuLM/)
 - [Neon Night Warrior](https://docs.google.com/document/d/1965kXP5tI7HNVqaUS6Vp2uAgQKELfW6VwN06HoEkFhY/)
 - [GDevelop](https://docs.google.com/document/d/1qRKQe6Xt_ToK_QL57dOJgfgx60Ysy_Dpg7dFL4kd3AQ/)
 
