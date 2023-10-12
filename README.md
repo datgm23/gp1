@@ -47,6 +47,13 @@
 
 ## 後期2回目(10/12)
 
+### 進捗共有
+- [音ゲー](https://docs.google.com/document/d/1_si36QjOkuL3FDZR9hMD0juYDOXz8Zxzx6qocLtUjTw/)
+- [即魔女](https://docs.google.com/document/d/1O9U18MEGjxq8ZFAx1V9dOOo17ebojH6Qq0-hocnguPk/)
+- [WolfEditor](https://docs.google.com/document/d/17osuDKilwYyrzr6V4FXAcM4-ExwhuzjoSV7g7h3XuLM/)
+- [Neon](https://docs.google.com/document/d/1965kXP5tI7HNVqaUS6Vp2uAgQKELfW6VwN06HoEkFhY/)
+- [GDevelop](https://docs.google.com/document/d/1qRKQe6Xt_ToK_QL57dOJgfgx60Ysy_Dpg7dFL4kd3AQ/)
+
 ### 予定
 - 今週の目標：企画内容の確定
   - 企画概要書を埋める
