@@ -45,7 +45,7 @@
 - [よけとる企画構想書](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
 - [よことる仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
 
-## 後期3, 4回目(10/19, 26)
+## 後期3, 4, 5回目(10/19, 26, 11/2)
 
 ### 進捗共有
 - [紅葉と侍（仮）](https://docs.google.com/document/d/1_si36QjOkuL3FDZR9hMD0juYDOXz8Zxzx6qocLtUjTw/)
@@ -72,7 +72,6 @@
   - ビルドができない場合は、プロジェクトフォルダーまるごとでよい
 
 ## 後期2回目(10/12)
-
 
 ### 内容
 - 今週の目標：企画内容の確定
