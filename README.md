@@ -52,6 +52,9 @@
 - 今回の開発経験をもとに、設計や最適化、企画運営の考え方を深める
 - 2年生の卒業制作に向けた下準備
 
+### 話題
+- [Our first ever e-book for level designers is here](https://discussions.unity.com/t/our-first-ever-e-book-for-level-designers-is-here/310631)
+
 ### 予定
 - DATフェスタ版のビルドデータ、インストカードのデータ、プロジェクトの提出
   - 完成プロジェクトを持っている人
