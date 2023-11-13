@@ -45,6 +45,26 @@
 - [よけとる企画構想書](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
 - [よことる仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
 
+## 後期6回目(11/16)
+
+### 予定
+- 展示版の提出。すでに展示版だったら作業は不要
+  - `X:\2023年\ゲーム学科\gp1\DATフェスタ実行ファイル` の中に作品名のフォルダーを作成して、その中にビルドした実行ファイルをコピーする
+  - ビルドができない場合は、プロジェクトフォルダーまるごとでよい
+  - インストカードのファイルも上記のフォルダーにコピー
+- DATフェスタ版の講評
+- 展示データのとりまとめと提出
+  - Unityの場合
+    - GitHubにコミットしてあればGitHubのURLをSlackに貼り付ける
+    - 次の手順でzipファイルを作成して、指定のフォルダーへコピー
+      - Unityプロジェクトをデスクトップにコピーする
+      - デスクトップにコピーしたUnityプロジェクトフォルダーを開いて .gitとLibraryフォルダーを削除する
+      - デスクトップにコピーしたプロジェクトフォルダーを右クリックして 7-Zip > 圧縮を選んでzip形式で圧縮
+      - 圧縮したzipファイルを指定のフォルダーにコピー
+  - Unity以外の場合
+    - 指定のフォルダーにプロジェクト一式をコピー
+
+
 ## 後期3, 4, 5回目(10/19, 26, 11/2)
 
 ### 進捗共有
@@ -54,7 +74,7 @@
 - [Neon Night Warrior](https://docs.google.com/document/d/1965kXP5tI7HNVqaUS6Vp2uAgQKELfW6VwN06HoEkFhY/)
 - [GDevelop](https://docs.google.com/document/d/1qRKQe6Xt_ToK_QL57dOJgfgx60Ysy_Dpg7dFL4kd3AQ/)
 
-### 予定
+### 内容
 - 進捗の共有
 - 作業
 
