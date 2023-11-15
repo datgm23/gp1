@@ -53,6 +53,7 @@
 - 2年生の卒業制作に向けた下準備
 
 ### 話題
+- [はがくん@薬剤師＆Flutterエンジニア. もう初回コードレビューはAIに任せる時代になった - CodeRabbit -](https://zenn.dev/minedia/articles/7928ef7545b393)
 - [Our first ever e-book for level designers is here](https://discussions.unity.com/t/our-first-ever-e-book-for-level-designers-is-here/310631)
 
 ### 予定
