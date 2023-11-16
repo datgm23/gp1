@@ -57,7 +57,7 @@
 - [Our first ever e-book for level designers is here](https://discussions.unity.com/t/our-first-ever-e-book-for-level-designers-is-here/310631)
 
 ### 予定
-- DATフェスタに展示した実行ファイルを``にコピーして提出。すでに展示版になっていたらこの作業は不要
+- DATフェスタに展示した実行ファイルを`X:\2023年\ゲーム学科\gp1\DATフェスタ実行ファイル`にコピーして提出。すでに展示版になっていたらこの作業は不要
 - DATフェスタ版のビルドデータ、インストカードのデータ、プロジェクトの提出
   - 完成プロジェクトを持っている人
     - `Z:\2023\student\gp1\DATフェスタ展示版プロジェクト一式`フォルダーを開いて、新しいフォルダーを作成して、フォルダー名を作品名に変更
