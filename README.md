@@ -76,7 +76,7 @@
   - 共有をクリックして、リンクを知っている全員が編集できるように設定して、共有リンクを[こちら](https://docs.google.com/forms/d/e/1FAIpQLSe5OMfKZjLNLYv0U5BbUoH8vfAeRe069TZuiyLHYNjqp8wIJA/viewform?usp=sf_link)に報告
   - 参考： https://am1tanaka.hatenablog.com/entry/2021/11/14/223032
 - 提出されたビルドとドキュメントを確認して、今後の方向性を検討
-  - 講評
+  - [講師のコメント](https://docs.google.com/document/d/1ZVvoFxoPCZ3_aV88VLQNcoNBp-GD0rHUF6C5uebu8g4/)
   - 木曜日は、主にアルゴリズムや開発ノウハウについて扱う
   - 金曜日は、主にデザインや演出について扱う
 
