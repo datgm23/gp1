@@ -56,7 +56,7 @@
 - [はがくん@薬剤師＆Flutterエンジニア. もう初回コードレビューはAIに任せる時代になった - CodeRabbit -](https://zenn.dev/minedia/articles/7928ef7545b393)
 - [Our first ever e-book for level designers is here](https://discussions.unity.com/t/our-first-ever-e-book-for-level-designers-is-here/310631)
 
-### 予定
+### 内容
 - DATフェスタに展示した実行ファイルを`X:\2023年\ゲーム学科\gp1\DATフェスタ実行ファイル`にコピーして提出。すでに展示版になっていたらこの作業は不要
 - DATフェスタ版のビルドデータ、インストカードのデータ、プロジェクトの提出
   - 完成プロジェクトを持っている人
