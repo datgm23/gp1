@@ -45,6 +45,19 @@
 - [よけとる企画構想書](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
 - [よことる仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
 
+## 後期7回目(11/23)
+
+### 予定
+- 展示のまとめ
+  - Googleドキュメントを新規に作成して文章名を「DATフェスタまとめ：氏名」とする(例 DATフェスタまとめ：田中)
+  - 展示をしていて気づいた点、来場者のコメントをGoogleドキュメントにまとめる
+  - 共有をクリックして、リンクを知っている全員が編集できるように設定して、共有リンクを[こちら](https://docs.google.com/forms/d/e/1FAIpQLSe5OMfKZjLNLYv0U5BbUoH8vfAeRe069TZuiyLHYNjqp8wIJA/viewform?usp=sf_link)に報告
+  - 参考： https://am1tanaka.hatenablog.com/entry/2021/11/14/223032
+- 提出されたビルドとドキュメントを確認して、今後の方向性を検討
+  - [講師のコメント](https://docs.google.com/document/d/1ZVvoFxoPCZ3_aV88VLQNcoNBp-GD0rHUF6C5uebu8g4/)
+- [悪魔のサーカス再開発](https://docs.google.com/document/d/1G-CctzdZjEPXMe1v1NF_tYoF8T6VFoTWd5ULW_NkKWc/)
+
+
 ## 後期6回目(11/16)
 
 ### 今後の1年生の進行
