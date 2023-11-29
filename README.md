@@ -47,9 +47,6 @@
 
 ## 後期8回目(11/30)
 
-### 話題
-- [テトラポッド葉山. 【日本語訳】レベルデザイン～より良いレベルを求めて～](https://my-syumi-game.notion.site/my-syumi-game/78aeea083db140de96616e2cc6b089ce)
-
 ### 予定
 - [1.プログラムの設計](https://docs.google.com/document/d/1WHlNEKhg_iqpEReh0ym9lpMSjmhjrhWGxXcyJ9T6EpY/)
 - [2.オブジェクト指向言語入門](https://docs.google.com/document/d/19BucmYXR9dgN8qWQkfgjNrJC3Pz3DQLCzw5vQoQG0AU/)
