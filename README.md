@@ -32,6 +32,7 @@
   - [内藤時浩. ゲーム制作のプロジェクト管理](https://codeknowledge.livedoor.blog/archives/13027501.html)
   - [内藤時浩. ゲーム制作の工数最適化](https://codeknowledge.livedoor.blog/archives/13048099.html)
 - [内藤時浩. C言語001 基礎講座連載開始](https://codeknowledge.livedoor.blog/archives/17082816.html)  
+- [Unity Learning Material. シェーダー](https://learning.unity3d.jp/tag/shader/)
 
 ## 自習可能なゲームエンジン
 - [ティラノビルダー](https://b.tyrano.jp/)
@@ -58,6 +59,8 @@
 ### 予定
 - [1.プログラムの設計](https://docs.google.com/document/d/1WHlNEKhg_iqpEReh0ym9lpMSjmhjrhWGxXcyJ9T6EpY/)
 - [2.オブジェクト指向言語入門](https://docs.google.com/document/d/19BucmYXR9dgN8qWQkfgjNrJC3Pz3DQLCzw5vQoQG0AU/)
+- [Unityのシェーダープログラミング](https://docs.google.com/document/d/1JhDpRetPQ4bp_bKkyINdS1fSpRqoPNfE7gFxR2uL2tc/)
+  - [Unity Learning Material. シェーダー](https://learning.unity3d.jp/tag/shader/)
 - DATフェスタのプロジェクトへの講評
 
 ## 後期7回目(11/23)
