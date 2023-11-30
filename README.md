@@ -45,6 +45,11 @@
 - [よけとる企画構想書](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
 - [よことる仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
 
+## 後期9回目(12/7)
+
+### 予定
+- オブジェクト指向入門 [C#のオブジェクト指向プログラミング](https://docs.google.com/document/d/19BucmYXR9dgN8qWQkfgjNrJC3Pz3DQLCzw5vQoQG0AU/edit#heading=h.tzsqffr9zznt)から
+
 ## 後期8回目(11/30)
 
 ### 話題
