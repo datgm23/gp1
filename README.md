@@ -47,7 +47,27 @@
 - [よことる仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
 
 
+## 後期10回目(12/14)
+
+### 話題
+- [1週間ゲームジャム](https://unityroom.com/unity1weeks)が12/18から開催
+- [unity1week Team-Up!!　はじめました](https://note.com/metaformingpro/n/n200ae566e501)
+- [unityroomのスコアランキング機能の実装方法](https://unityroom-help.notion.site/4fae458305a948818b90e50dcad6a3f3)
+
+### 予定
+- オブジェクト指向入門 [C#のオブジェクト指向プログラミング](https://docs.google.com/document/d/19BucmYXR9dgN8qWQkfgjNrJC3Pz3DQLCzw5vQoQG0AU/edit#heading=h.83c3eg3zkvj8) 抽象メソッドと抽象クラスから
+- 1週間ゲームジャム素振り
+  - [提出を前提としたUnityプロジェクトの作成](https://docs.google.com/document/d/1cKHfLM4ADKpJm51GapFTZa5gZbMCzWXGLcjtmvHFEao/)
+  - [Unity1週間ゲームジャム12月](https://docs.google.com/document/d/1s14VSICyNxxBKNxcswlGlitX1P0MV1SW8mUa_Vm3OfY/)の方針
+
+
 ## 後期9回目(12/7)
+
+### 内容
+- 1週間ゲームジャム素振り
+  - [提出を前提としたUnityプロジェクトの作成](https://docs.google.com/document/d/1cKHfLM4ADKpJm51GapFTZa5gZbMCzWXGLcjtmvHFEao/)
+  - [Unity1週間ゲームジャム12月](https://docs.google.com/document/d/1s14VSICyNxxBKNxcswlGlitX1P0MV1SW8mUa_Vm3OfY/)の方針
+- 1週間ゲームジャムに不参加の場合は研究や卒制を進める
 
 ### 話題
 - [Publickey. GitHub、Copilotの将来像となる「Copilot Workspace」発表。人間がコードを書くことなく、Copilotが仕様作成からコード作成、デバッグまで実行。GitHub Universe 2023](https://publickey1.jp/blog/23/githubcopilotcopilot_workspacecopilotcopilotgithub_universe_2023.html)
@@ -55,19 +75,10 @@
 - [unity1week Team-Up!!　はじめました](https://note.com/metaformingpro/n/n200ae566e501)
 - [unityroomのスコアランキング機能の実装方法](https://unityroom-help.notion.site/4fae458305a948818b90e50dcad6a3f3)
 
-
-### 予定
+### 内容
 - オブジェクト指向入門 [C#のオブジェクト指向プログラミング](https://docs.google.com/document/d/19BucmYXR9dgN8qWQkfgjNrJC3Pz3DQLCzw5vQoQG0AU/edit#heading=h.tzsqffr9zznt)から
 - [音ゲーの考え方](https://docs.google.com/presentation/d/1-Ki7pmxyzOBGGHyZ8QfEhQkTYc0hnxAJNUuwADd-iOQ/)
   - [線形補間](https://docs.google.com/document/d/1cjjKDY-WaEx25Z1pRFaalRfaNDX2hn_wh6kSQMTlImw/)
-
-
-## 後期10回目(12/14)
-
-### 予定
-- オブジェクト指向入門 [C#のオブジェクト指向プログラミング](https://docs.google.com/document/d/19BucmYXR9dgN8qWQkfgjNrJC3Pz3DQLCzw5vQoQG0AU/edit#heading=h.83c3eg3zkvj8) 抽象メソッドと抽象クラスから
-
-
 
 ## 後期8回目(11/30)
 
