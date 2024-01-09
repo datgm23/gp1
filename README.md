@@ -46,6 +46,18 @@
 - [よけとる企画構想書](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
 - [よことる仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
 
+## 後期12回目(1/11)
+
+### 話題
+- [ゲームクリエイター甲子園2023 受賞作品一覧](https://www.creators-guild.com/gck2023/award)
+- [1週間ゲームジャム](https://unityroom.com/unity1weeks/61)
+
+### 予定
+- 正月休みの成果報告とまとめ
+  - [カタチナゲル](https://am1.games/katachi/)
+- オブジェクト指向入門 [C#のオブジェクト指向プログラミング](https://docs.google.com/document/d/19BucmYXR9dgN8qWQkfgjNrJC3Pz3DQLCzw5vQoQG0AU/) の振り返り
+- SOLID原則
+
 ## 後期11回目(12/21)
 
 ### 1週間ゲームジャム
@@ -53,7 +65,7 @@
 - [unity1week Team-Up!!　はじめました](https://note.com/metaformingpro/n/n200ae566e501)
 - [unityroomのスコアランキング機能の実装方法](https://unityroom-help.notion.site/4fae458305a948818b90e50dcad6a3f3)
 
-### 予定
+### 内容
 - もくもく会方式
   - 開始時に現状と今日やることを簡単に報告
     - [カタチナゲル企画概要書](https://docs.google.com/document/d/16itfVpbCPmUwejBRoO4P47o-NotTgGN--UWc2rGBhIk/)
@@ -71,7 +83,7 @@
 - [unity1week Team-Up!!　はじめました](https://note.com/metaformingpro/n/n200ae566e501)
 - [unityroomのスコアランキング機能の実装方法](https://unityroom-help.notion.site/4fae458305a948818b90e50dcad6a3f3)
 
-### 予定
+### 内容
 - オブジェクト指向入門 [C#のオブジェクト指向プログラミング](https://docs.google.com/document/d/19BucmYXR9dgN8qWQkfgjNrJC3Pz3DQLCzw5vQoQG0AU/edit#heading=h.83c3eg3zkvj8) 抽象メソッドと抽象クラスから
 - 1週間ゲームジャム素振り
   - [提出を前提としたUnityプロジェクトの作成](https://docs.google.com/document/d/1cKHfLM4ADKpJm51GapFTZa5gZbMCzWXGLcjtmvHFEao/)
