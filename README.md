@@ -53,7 +53,7 @@
 - [1週間ゲームジャム](https://unityroom.com/unity1weeks/61)
 
 ### 予定
-- 正月休みの成果報告とまとめ
+- 正月休みの成果報告
   - [カタチナゲル](https://am1.games/katachi/)
 - オブジェクト指向入門 [C#のオブジェクト指向プログラミング](https://docs.google.com/document/d/19BucmYXR9dgN8qWQkfgjNrJC3Pz3DQLCzw5vQoQG0AU/) の振り返り
 - SOLID原則
