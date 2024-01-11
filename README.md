@@ -46,6 +46,15 @@
 - [よけとる企画構想書](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
 - [よことる仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
 
+## 後期13回目(1/18)
+
+### 予定
+- SOLID原則の残り
+  - [インターフェース分離の原則](https://docs.google.com/document/d/17sJ1imhvRp2jPmW7xTcJ2iS3KeUKahFLzVnLWf_Ny8g/)
+  - [依存関係逆転の原則](https://docs.google.com/document/d/1o9ZfMAkwgBInJSyvRiD9AShPvXH-POsSoAyGseShP48/)
+  - [まとめと応用](https://docs.google.com/document/d/1TVN7JNxIBleC7eoXwCDaEoZSRXwNDpELLOOqcRbC3sU/)
+
+
 ## 後期12回目(1/11)
 
 ### 話題
@@ -53,7 +62,7 @@
 - [ゲームクリエイター甲子園2023 受賞作品一覧](https://www.creators-guild.com/gck2023/award)
 - [1週間ゲームジャム](https://unityroom.com/unity1weeks/61)
 
-### 予定
+### 内容
 - 正月休みの成果報告
   - [カタチナゲル](https://am1.games/katachi/)
 - オブジェクト指向入門 [C#のオブジェクト指向プログラミング](https://docs.google.com/document/d/19BucmYXR9dgN8qWQkfgjNrJC3Pz3DQLCzw5vQoQG0AU/) の振り返り
