@@ -46,13 +46,19 @@
 - [よけとる企画構想書](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
 - [よことる仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
 
+## 後期14回目(1/26)
+
+### 予定
+- SOLID原則
+  - [まとめと応用](https://docs.google.com/document/d/1TVN7JNxIBleC7eoXwCDaEoZSRXwNDpELLOOqcRbC3sU/)
+
+
 ## 後期13回目(1/18)
 
 ### 予定
 - SOLID原則の残り
   - [インターフェース分離の原則](https://docs.google.com/document/d/17sJ1imhvRp2jPmW7xTcJ2iS3KeUKahFLzVnLWf_Ny8g/)
   - [依存関係逆転の原則](https://docs.google.com/document/d/1o9ZfMAkwgBInJSyvRiD9AShPvXH-POsSoAyGseShP48/)
-  - [まとめと応用](https://docs.google.com/document/d/1TVN7JNxIBleC7eoXwCDaEoZSRXwNDpELLOOqcRbC3sU/)
 
 
 ## 後期12回目(1/11)
