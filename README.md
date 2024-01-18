@@ -51,7 +51,8 @@
 ### 予定
 - SOLID原則
   - [まとめと応用](https://docs.google.com/document/d/1TVN7JNxIBleC7eoXwCDaEoZSRXwNDpELLOOqcRbC3sU/)
-
+- ボードゲーム調査
+  - [BGA](https://ja.boardgamearena.com/gamelist)
 
 ## 後期13回目(1/18)
 
