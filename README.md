@@ -49,14 +49,14 @@
 ## 後期14回目(1/26)
 
 ### 予定
-- SOLID原則
+- SOLID原則の復習
   - [まとめと応用](https://docs.google.com/document/d/1TVN7JNxIBleC7eoXwCDaEoZSRXwNDpELLOOqcRbC3sU/)
-- ボードゲーム調査
-  - [BGA](https://ja.boardgamearena.com/gamelist)
+- [Board Game Arena's online development platform](https://studio.boardgamearena.com/)
+  - [BGA Studio: BGAフレームワークの概要](https://www.slideshare.net/boardgamearena/the-bga-framework-at-a-glance)
 
 ## 後期13回目(1/18)
 
-### 予定
+### 内容
 - SOLID原則の残り
   - [インターフェース分離の原則](https://docs.google.com/document/d/17sJ1imhvRp2jPmW7xTcJ2iS3KeUKahFLzVnLWf_Ny8g/)
   - [依存関係逆転の原則](https://docs.google.com/document/d/1o9ZfMAkwgBInJSyvRiD9AShPvXH-POsSoAyGseShP48/)
