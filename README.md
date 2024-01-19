@@ -53,6 +53,7 @@
   - [まとめと応用](https://docs.google.com/document/d/1TVN7JNxIBleC7eoXwCDaEoZSRXwNDpELLOOqcRbC3sU/)
 - [Board Game Arena's online development platform](https://studio.boardgamearena.com/)
   - [BGA Studio: BGAフレームワークの概要](https://www.slideshare.net/boardgamearena/the-bga-framework-at-a-glance)
+- 機能を検討する
 
 ## 後期13回目(1/18)
 
