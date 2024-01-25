@@ -46,6 +46,12 @@
 - [よけとる企画構想書](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
 - [よことる仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
 
+## 後期15回目(2/1)
+
+### 予定
+- [Photon Realtime. Getting Started](https://doc.photonengine.com/ja-jp/realtime/current/getting-started/realtime-intro)
+  - Unityで動かしてみる
+
 ## 後期14回目(1/26)
 
 ### 予定
