@@ -55,7 +55,7 @@
   - [BGA Studio: BGAフレームワークの概要](https://www.slideshare.net/boardgamearena/the-bga-framework-at-a-glance)
 - 機能を検討する
   - [Photon](https://www.photonengine.com/ja-jp)
-    - [Fusion](https://doc.photonengine.com/ja-jp/fusion/current/fusion-intro)
+    - [Realtime](https://doc.photonengine.com/ja-jp/realtime/current/getting-started/realtime-intro)
 
 ## 後期13回目(1/18)
 
