@@ -65,7 +65,7 @@
 - Photonへ登録
   1. [サインアップ](https://id.photonengine.com/ja-jp/account/signup)する
   2. 登録したgmailを開いて、認証
-  3. photonのページにサインイン
+  3. [photonのページにサインイン](https://id.photonengine.com/ja-jp/account/signin)
   4. ダッシュボードを開ければOK 
 
 ## 後期13回目(1/18)
