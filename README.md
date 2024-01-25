@@ -62,6 +62,11 @@
 - 機能を検討する
   - [Photon](https://www.photonengine.com/ja-jp)
     - [Realtime](https://doc.photonengine.com/ja-jp/realtime/current/getting-started/realtime-intro)
+- Photonへ登録
+  1. [サインアップ](https://id.photonengine.com/ja-jp/account/signup)する
+  2. 登録したgmailを開いて、認証
+  3. photonのページにサインイン
+  4. ダッシュボードを開ければOK 
 
 ## 後期13回目(1/18)
 
