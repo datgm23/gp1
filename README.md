@@ -50,7 +50,7 @@
 
 ### 予定
 - [Photon Realtime. Getting Started](https://doc.photonengine.com/ja-jp/realtime/current/getting-started/realtime-intro)
-  - Unityで動かしてみる
+  - [前回の続きから](https://docs.google.com/document/d/1QQMcZbUw1YxN97fMtQCzHZD2Si2e1XqLPGrxGciZ8Lo/)
 
 ## 後期14回目(1/26)
 
