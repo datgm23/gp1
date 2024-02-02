@@ -46,15 +46,16 @@
 - [よけとる企画構想書](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
 - [よことる仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
 
-## 後期15回目(2/1, 8)
+## 後期15, 16回目(2/1, 8)
 
 ### 内容
 - [Photon Realtime. Getting Started](https://doc.photonengine.com/ja-jp/realtime/current/getting-started/realtime-intro)
   - [前回の続きから](https://docs.google.com/document/d/1QQMcZbUw1YxN97fMtQCzHZD2Si2e1XqLPGrxGciZ8Lo/)
+  - OpRaiseEvent()が発動しない。サンプルと見比べて、動作させる方法を調べる
 
 ## 後期14回目(1/26)
 
-### 予定
+### 内容
 - SOLID原則の復習
   - [まとめと応用](https://docs.google.com/document/d/1TVN7JNxIBleC7eoXwCDaEoZSRXwNDpELLOOqcRbC3sU/)
 - [Board Game Arena's online development platform](https://studio.boardgamearena.com/)
