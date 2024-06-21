@@ -427,7 +427,7 @@
 
 考え方の参考: [kazuate.md](kazuate.md)
 
-###内容
+### 内容
 - 前回までの復習
 - 配列 / 繰り返し
   - [v0615の作例](https://github.com/datgm23/v0615)の[プログラム](https://github.com/datgm23/v0615/blob/main/v0615/Form1.cs)
